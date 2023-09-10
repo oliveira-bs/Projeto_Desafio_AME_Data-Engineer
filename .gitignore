@@ -1,0 +1,6 @@
+/home/work/github/challenge_ame_data_eng/.gitignore
+/home/work/github/challenge_ame_data_eng/__pycache__
+/home/work/github/challenge_ame_data_eng/.mypy_cache
+/home/work/github/challenge_ame_data_eng/.vscode
+/home/work/github/challenge_ame_data_eng/Análise - Data Warehouse.ipynb
+/home/work/github/challenge_ame_data_eng/challenge_ame.py
